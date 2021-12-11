@@ -1,0 +1,6 @@
+<dir>
+      <title>[B][I][COLOR yellow]Academy Awards(Oscars)[/COLOR][/I][/B] - SCRAPERS</title>
+      <trakt>https://api.trakt.tv/users/pullsa/lists</trakt>
+      <thumbnail>http://www.ezzer-mac.com/Addon/images/5oscars.png</thumbnail>
+      <fanart>http://www.ezzer-mac.com/Addon/images/newaddonbg.jpg</fanart>
+</dir>
