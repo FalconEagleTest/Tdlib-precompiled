@@ -1,1 +1,7 @@
-{"windows": "https://github.com/FalconEagleTest/Tdlib-precompiled/blob/main/windows.zip?raw=true", "android64":"https://github.com/FalconEagleTest/Tdlib-precompiled/blob/main/libtdjsonjava64.so?raw=true", "android32": "https://github.com/FalconEagleTest/Tdlib-precompiled/blob/main/libtdjsonjava32.so?raw=true", "Version": "1.8.2", "linux": "www"}
+{
+  "windows": "https://github.com/FalconEagleTest/Tdlib-precompiled/raw/main/1.8.4/windows.zip",
+  "android64": "https://github.com/FalconEagleTest/Tdlib-precompiled/raw/main/1.8.4/libtdjsonjava64.so",
+  "android32": "https://github.com/FalconEagleTest/Tdlib-precompiled/raw/main/1.8.4/libtdjsonjava32.so",
+  "Version": "1.8.4",
+  "linux": "www"
+}
